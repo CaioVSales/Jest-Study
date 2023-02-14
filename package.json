@@ -3,6 +3,26 @@
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "^29.4.2"
-  }
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "babel-jest": "^29.4.2",
+    "jest": "^29.4.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  },
+  "name": "jest-study",
+  "description": "Repo for Jest basic studying",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaioVSales/Jest-Study.git"
+  },
+  "keywords": [],
+  "author": "Caio Sales",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaioVSales/Jest-Study/issues"
+  },
+  "homepage": "https://github.com/CaioVSales/Jest-Study#readme"
 }
